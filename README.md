@@ -1,44 +1,47 @@
-## About me
+Hi, I'm Jumana! 👋
 
-
-
-Hi, I'm Jumana!
 🌱 CSE Student | 🧠 AI & ML Learner | 💻 Trying → Building → Improving
 
-I'm currently studying Computer Science at MITS, and I love exploring how AI and code can turn simple ideas into useful projects. I’m still learning piece by piece, but every project teaches me something new — and that’s what keeps me going.
+I'm currently studying Computer Science at MITS, exploring how AI and coding can transform ideas into useful projects. Every project I take on teaches me something new — that’s what keeps me motivated!
 
-I enjoy experimenting with machine learning, small web apps, and fun mini-projects that help me improve my logic and creativity.
+🛠️ Skills & Interests
 
-Projects I've Built
+Machine Learning & AI: TensorFlow, Keras, CNN, datasets, predictions
 
-Here are some of the things I've worked on as I’m learning:
+Web Development: HTML, CSS, JavaScript, Streamlit, Flask
 
+Backend & Databases: SQL, Python
+
+Tools & Workflows: Git & GitHub
+
+Currently Exploring: React, backend basics, building deployable AI apps
+
+🚀 Projects I've Built
 🐶🐱 Cat vs Dog Image Classifier
 
-A deep learning model that classifies whether an image is of a cat or a dog.
-Tools: TensorFlow, Keras, CNN, Python
+Description: Deep learning model to classify cat vs dog images.
+Tools: Python, TensorFlow, Keras, CNN
 Highlights: Custom model, image preprocessing, model saving (.keras/.h5)
 
 🌍 Carbon Emission Estimator
 
-Estimates carbon emissions based on user activities like travel or usage.
-Tools: Python
-Helped me understand real-world calculations and user-input logic.
+Description: Estimates carbon footprint based on user activities (travel, usage, etc.)
+Tools: Python, Flask, SQL
+Learning: Building a web app with backend, handling user input, storing and retrieving data from a database
 
 🎬 Movie Review Project
 
-A simple web page where users can write and view movie reviews.
+Description: A web page where users can submit and view movie reviews
 Tools: HTML, CSS, JavaScript
-Good practice for handling input and UI structure.
-
+Learning: Input handling, UI structuring
 
 🍽️ GivEat (Team Project)
 
-A collaborative project aimed at reducing food waste by connecting surplus food donors with people in need.
+Description: Reducing food waste by connecting surplus food donors with people in need
 Role: Tech & Development Lead
-Achievement: Shortlisted from 350+ teams in PALS IITM Pitchfest.
+Achievement: Shortlisted from 350+ teams in PALS IITM Pitchfest
 
-Currently Exploring
+🌱 Currently Exploring
 
 Machine Learning (models, datasets, predictions)
 
@@ -50,31 +53,23 @@ TensorFlow + Keras
 
 Streamlit and building small AI apps
 
-
-Goals
+🎯 Goals
 
 Build and deploy more ML-based mini apps
 
 Strengthen fundamentals in ML + Web Development
 
-Publish more structured projects on GitHub
+Publish more structured projects on GitHub 
 
 Learn React and backend basics
 
-📫 Contact
+Improve confidence in coding and problem-solving
+
+📫 Contact Me
 
 📧 Email: jumanajadheedapj@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/jumanajadheeda
 
-
-
-Improve confidence in coding and problem-solving
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
-
-
+🌞 Fun Visual
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"> <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"> <img alt="Illustrated sun in light mode and moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"> </picture>
